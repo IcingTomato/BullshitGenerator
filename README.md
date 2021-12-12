@@ -3,7 +3,7 @@
 
 原项目地址 https://github.com/menzi11/BullshitGenerator
 
-网页版地址 hhttps://icingtomato.gitee.io/thoughtgenerator/index.html
+网页版地址 https://icingtomato.gitee.io/thoughtgenerator/index.html
 
 修改:  
 1.设计并移植至浏览器  
